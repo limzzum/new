@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142581527745",
+    "firebase_url": "https://basicmapnew.firebaseio.com",
+    "project_id": "basicmapnew",
+    "storage_bucket": "basicmapnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142581527745:android:39cfd0a3b04aea40bc9040",
+        "android_client_info": {
+          "package_name": "com.example.basicmapnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142581527745-dlc93bhaetmgvgldpeaj5j1eabosmuoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUOeL8H7z-D3lqbm_Dd1mnAiEG9dV62c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142581527745-dlc93bhaetmgvgldpeaj5j1eabosmuoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
